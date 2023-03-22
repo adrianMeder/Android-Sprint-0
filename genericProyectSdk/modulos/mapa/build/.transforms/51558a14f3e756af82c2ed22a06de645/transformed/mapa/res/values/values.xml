@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MAPS_API_KEY" templateMergeStrategy="preserve" translatable="false">AIzaSyD0GfxnD-JaEsmye07iltEAI3o43lriOB8</string>
+    <string name="default_web_client_id" translatable="false">553360059708-8liliahsnu2th4spbrg7cojgbf8dh0q3.apps.googleusercontent.com</string>
+    <string name="enable_gps_activate_msg">GPS Activado</string>
+    <string name="enable_gps_error_msg">Se necesita dar permiso de ubicacion para continuar</string>
+    <string name="enable_gps_message">El GPS está desactivado. ¿Desea activarlo?</string>
+    <string name="enable_gps_negative_button">No</string>
+    <string name="enable_gps_positive_button">Si</string>
+    <string name="enable_gps_title">GPS desactivado</string>
+    <string name="gcm_defaultSenderId" translatable="false">553360059708</string>
+    <string name="google_api_key" translatable="false">AIzaSyCG3XrZaSK3wSHSVyZpxpNd3QzdDmXOXms</string>
+    <string name="google_app_id" translatable="false">1:553360059708:android:498bad5972f7bfae5d0239</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCG3XrZaSK3wSHSVyZpxpNd3QzdDmXOXms</string>
+    <string name="google_storage_bucket" translatable="false">tradermap-12820.appspot.com</string>
+    <string name="project_id" translatable="false">tradermap-12820</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

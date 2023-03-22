@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="LightGrey">#d3d3d3</color>
+    <color name="Silver">#c0c0c0</color>
+    <color name="White">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <dimen name="sdk_20dp">20dp</dimen>
+    <dimen name="sdk_5dp">5dp</dimen>
+    <string name="MAPS_API_KEY" templateMergeStrategy="preserve" translatable="false">AIzaSyD0GfxnD-JaEsmye07iltEAI3o43lriOB8</string>
+    <string name="default_web_client_id" translatable="false">404966060091-8hhoka292l2jgttids72roqt7ak1hmhs.apps.googleusercontent.com</string>
+    <string name="enable_gps_activate_msg">GPS Activado</string>
+    <string name="enable_gps_error_msg">Se necesita dar permiso de ubicacion para continuar</string>
+    <string name="enable_gps_message">El GPS está desactivado. ¿Desea activarlo?</string>
+    <string name="enable_gps_negative_button">No</string>
+    <string name="enable_gps_positive_button">Si</string>
+    <string name="enable_gps_title">GPS desactivado</string>
+    <string name="error_upload_map">Error al cargar el mapa</string>
+    <string name="gcm_defaultSenderId" translatable="false">404966060091</string>
+    <string name="google_api_key" translatable="false">AIzaSyCIzBBTW6MFUnBOsoS3JFXoln2m9mbjIOU</string>
+    <string name="google_app_id" translatable="false">1:404966060091:android:580225836ce500d9796c1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIzBBTW6MFUnBOsoS3JFXoln2m9mbjIOU</string>
+    <string name="google_storage_bucket" translatable="false">trade-document.appspot.com</string>
+    <string name="project_id" translatable="false">trade-document</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_map">Mapa</string>
+</resources>

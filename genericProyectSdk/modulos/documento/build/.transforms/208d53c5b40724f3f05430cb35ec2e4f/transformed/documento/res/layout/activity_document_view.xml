@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    tools:context=".ui.DocumentActivityView">
+
+    <include
+        android:id="@+id/toolbarBack"
+        layout="@layout/back_confirmation"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-31dp" />
+
+    <ImageView
+        android:id="@+id/imgPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:elevation="1dp"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toTopOf="@+id/selectPhoto"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarBack" />
+
+    <ImageView
+        android:id="@+id/imgPhotoBorder"
+        android:layout_width="match_parent"
+        android:layout_height="420dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/shape_rectangulo_gris_borde_gris"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toTopOf="@+id/selectPhoto"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarBack" />
+
+    <Button
+        android:id="@+id/selectPhoto"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/shape_rectangulo_gris_borde_gris"
+        android:drawableLeft="@drawable/ic_baseline_add_a_photo_24"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:text="@string/take_photo"
+        android:textColor="@color/black"
+        android:textSize="10dp"
+        app:backgroundTint="@null"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/selectGalery"
+        app:layout_constraintTop_toBottomOf="@+id/imgPhotoBorder" />
+
+    <Button
+        android:id="@+id/selectGalery"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/shape_rectangulo_gris_borde_gris"
+        android:drawableLeft="@drawable/ic_baseline_collections_24"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
+        android:text="@string/galery"
+        android:textColor="@color/black"
+        android:textSize="10dp"
+        app:backgroundTint="@null"
+        app:layout_constraintLeft_toRightOf="@+id/selectPhoto"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgPhotoBorder" />
+
+    <Button
+        android:id="@+id/uploadFile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/shape_rectangulo_gris_borde_gris"
+        android:drawableLeft="@drawable/ic_baseline_file_present_24"
+        android:paddingStart="100dp"
+        android:paddingEnd="100dp"
+        android:text="@string/load_file"
+        android:textColor="@color/black"
+        app:backgroundTint="@null"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectPhoto" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></ProgressBar>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

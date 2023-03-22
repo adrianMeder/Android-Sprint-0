@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/genericProyectSdk/app/src/main/res/drawable/shape_rectangulo_borde_blue_light.xml" value="0.112" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/genericProyectSdk/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/genericProyectSdk/app/src/main/res/layout/activity_map.xml" value="0.31843575418994413" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/genericProyectSdk/modulos/documento/build/.transforms/208d53c5b40724f3f05430cb35ec2e4f/transformed/documento/res/drawable/shape_rectangulo_gris_borde_gris.xml" value="0.112" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

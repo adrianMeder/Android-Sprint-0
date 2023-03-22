@@ -1,0 +1,20 @@
+com.example.mapa
+drawable border_map
+id map
+id map_container
+layout activity_maps
+string MAPS_API_KEY
+string default_web_client_id
+string enable_gps_activate_msg
+string enable_gps_error_msg
+string enable_gps_message
+string enable_gps_negative_button
+string enable_gps_positive_button
+string enable_gps_title
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+string title_activity_maps

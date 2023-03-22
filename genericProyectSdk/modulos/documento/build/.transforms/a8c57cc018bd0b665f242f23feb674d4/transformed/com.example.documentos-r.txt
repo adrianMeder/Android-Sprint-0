@@ -1,0 +1,23 @@
+com.example.documentos
+color LightGrey
+color Silver
+color White
+color black
+drawable ic_baseline_add_a_photo_24
+drawable ic_baseline_collections_24
+drawable ic_baseline_file_present_24
+drawable shape_rectangulo_gris_borde_gris
+id imgPhoto
+id imgPhotoBorder
+id selectGalery
+id selectPhoto
+id uploadFile
+layout activity_document_view
+string error_getting_image
+string msg_file_big
+string msg_file_big_succes
+string msg_invalid_camera
+string msg_invalid_permission_msg
+string msg_invalid_permission_msg2
+string select_file
+style MyButtonStyle

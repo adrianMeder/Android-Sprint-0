@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="LightGrey">#d3d3d3</color>
+    <color name="Silver">#c0c0c0</color>
+    <color name="White">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <string name="error_getting_image">Error al obtener la imagen</string>
+    <string name="msg_file_big">El archivo es demasiado grande</string>
+    <string name="msg_file_big_succes">El archivo seleccionado se guardo con exito</string>
+    <string name="msg_invalid_camera">"No se puede acceder a la cámara sin permiso"</string>
+    <string name="msg_invalid_permission_msg">"Permisos rechazados"</string>
+    <string name="msg_invalid_permission_msg2">"Permiso rechazado por primera ves"</string>
+    <string name="select_file">Seleccione un archivo</string>
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/Silver</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
