@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="enable_gps_title">GPS desactivado</string>
+    <string name="enable_gps_message">El GPS está desactivado. ¿Desea activarlo?</string>
+    <string name="enable_gps_positive_button">Si</string>
+    <string name="enable_gps_negative_button">No</string>
+    <string name="enable_gps_activate_msg">GPS Activado</string>
+    <string name="enable_gps_error_msg">Se necesita dar permiso de ubicacion para continuar</string>
+    <string name="error_upload_map">Error al cargar el mapa</string>
+    <string name="title_map">Mapa</string>
+</resources>
