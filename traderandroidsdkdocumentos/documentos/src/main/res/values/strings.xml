@@ -1,0 +1,15 @@
+<resources>
+<string name="msg_invalid_camera">"No se puede acceder a la cámara sin permiso"</string>
+    <string name="msg_invalid_permission_msg">"Permisos rechazados"</string>
+    <string name="msg_invalid_permission_msg2">"Permiso rechazado por primera ves"</string>
+    <string name="error_getting_image">Error al obtener la imagen</string>
+    <string name="select_file">Seleccione un archivo</string>
+    <string name="msg_file_big">El archivo es demasiado grande</string>
+    <string name="msg_file_big_succes">El archivo seleccionado se guardo con exito</string>
+    <string name="msg_permission_denied">Se rechazo el permiso a storage, debe activarlo manuelamente para acceder</string>
+    <string name="msg_photo_succes">La foto se guardo con exito</string>
+    <string name="title_load_file">Subir archivos</string>
+    <string name="take_photo">Tomar foto</string>
+    <string name="galery">Galeria</string>
+    <string name="load_file">Subir archivo</string>
+</resources>

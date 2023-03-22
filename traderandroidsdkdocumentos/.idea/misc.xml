@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/documentos/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/documentos/src/main/res/drawable/ic_circle.xml" value="0.158" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/documentos/src/main/res/drawable/ic_header_pleca.xml" value="0.158" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/documentos/src/main/res/drawable/ic_resource_return.xml" value="0.158" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/documentos/src/main/res/drawable/shape_rectangulo_gris_borde_gris.xml" value="0.1085" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/documentos/src/main/res/layout/activity_document_view.xml" value="0.22" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/traderandroidsdkdocumentos/documentos/src/main/res/layout/back_confirmation.xml" value="0.1484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
